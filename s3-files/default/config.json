@@ -1,10 +1,10 @@
 {
   "Settings": {
-    "ServerPassword": "",
+    "ServerPassword": "IRON",
     "ServerPort": 7777,
     "MaxSlots": 8,
     "ReservedSlots": 20,
-    "ServerName": "",
+    "ServerName": "The Plain Core of Snake Oil",
     "UseServerName": false,
     "LogPath": "tshock/logs",
     "DebugLogs": false,
@@ -22,7 +22,7 @@
     "DefaultSpawnRate": 600,
     "InfiniteInvasion": false,
     "PvPMode": "normal",
-    "SpawnProtection": true,
+    "SpawnProtection": false,
     "SpawnProtectionRadius": 10,
     "RangeChecks": true,
     "HardcoreOnly": false,
