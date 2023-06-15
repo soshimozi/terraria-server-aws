@@ -4,7 +4,7 @@ This is a project for creating AWS resources to build up and run a Terraria serv
 
 ![Example](/images/terraria-frontend.png)
 
-Example working server can be found here: https://tendermario.github.io/terraria-server-aws
+Example working server can be found here: https://soshimozi.github.io/terraria-server-aws
 
 ## Technology
 
